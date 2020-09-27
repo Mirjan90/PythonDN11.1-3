@@ -1,0 +1,1 @@
+[{"Player": "miki", "timestamp": "2020-09-27 17:43:02.700609", "attempts": 6, "NumSecret": 3, "Failed": 5}, {"Player": "boki", "timestamp": "2020-09-27 17:43:40.650565", "attempts": 5, "NumSecret": 11, "Failed": 4}, {"Player": "kaja", "timestamp": "2020-09-27 17:44:03.770593", "attempts": 5, "NumSecret": 17, "Failed": 4}]
